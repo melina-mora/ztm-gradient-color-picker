@@ -34,6 +34,10 @@ h3 {
 	display: inline-block ;
 }
 
+h3:hover{
+	font: 700 1em "Montserrat", sans-serif;
+}
+
 h4 {
 	font: 400 0.9em "Montserrat", sans-serif;
 }
